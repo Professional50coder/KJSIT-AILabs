@@ -11,15 +11,14 @@ This repository contains a collection of machine learning and data analysis proj
 2. **Using Advanced Excel and Power BI to Analyze WhatsApp Data**
    - This project demonstrates the use of advanced Excel features and Power BI to analyze WhatsApp chat data.
    - It includes data cleaning, visualization, and the extraction of insights from the chat logs.
-  
-3. **Diabetes Prediction and Analysis**
-   - This project focuses on predicting the onset of diabetes using machine learning techniques.
-   - It includes data preprocessing, exploratory data analysis, and the development of predictive models.
 
-4. **Book Recommendation System**
+3. **Book Recommendation System**
    - This project implements a book recommendation system using a Convolutional Neural Network (CNN) model.
    - It allows users to search for books based on keywords and displays relevant book information.
 
+4. **Diabetes Prediction and Analysis**
+   - This project focuses on predicting the onset of diabetes using machine learning techniques.
+   - It includes data preprocessing, exploratory data analysis, and the development of predictive models.
 
 ## Getting Started
 
