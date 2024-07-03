@@ -8,7 +8,7 @@ This repository contains a collection of machine learning and data analysis proj
    - This project performs sentiment analysis on customer feedback using the VADER (Valence Aware Dictionary and sEntiment Reasoner) and TextBlob libraries in Python.
    - The analysis is presented through a Streamlit web application.
 
-2. **Using Advanced Excel and Power BI to Analyze WhatsApp Data**
+2. **Using Advanced Excel and Power BI to Analyze Data**
    - This project demonstrates the use of advanced Excel features and Power BI to analyze WhatsApp chat data.
    - It includes data cleaning, visualization, and the extraction of insights from the chat logs.
 
